@@ -25,25 +25,42 @@ Melsiya
 Sriragavi
 
 Assignments :
+
 Aravind.C (Leader)
+
 Sneha.R
+
 Melsiya
+
 Sriragavi
 
 Project Design & Planning
+
 Ideation Phase: 
+
 Project Design Phase 1
+
 Project Design Phase 2
+
 Project Planning
 
+
 Project Development Phase:
+
 Performance Testing
+
 Sprint 1
+
 Sprint 2
+
 Sprint 3
+
 Sprint 4
+
 User Acceptance Testing
 
 Final Deliverables :
+
 Project Code
+
 Project Report
