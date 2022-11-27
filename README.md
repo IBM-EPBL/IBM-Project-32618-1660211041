@@ -14,6 +14,7 @@ location to their parents or caretakers. The entire location data will be stored
 Demo Link here
     https://drive.google.com/file/d/1pv71tNbNmSi9zjpMXyuweBZziI3j-i-U/view?usp=share_link
 
+
 About the Team :
 
 Aravind.C (Leader)
@@ -23,6 +24,8 @@ Sneha.R
 Melsiya
 
 Sriragavi
+
+
 
 Assignments :
 
@@ -34,7 +37,10 @@ Melsiya
 
 Sriragavi
 
+
+
 Project Design & Planning
+
 
 Ideation Phase: 
 
@@ -43,6 +49,8 @@ Project Design Phase 1
 Project Design Phase 2
 
 Project Planning
+
+
 
 
 Project Development Phase:
@@ -58,6 +66,8 @@ Sprint 3
 Sprint 4
 
 User Acceptance Testing
+
+
 
 Final Deliverables :
 
