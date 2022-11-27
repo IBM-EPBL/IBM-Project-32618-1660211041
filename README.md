@@ -1,6 +1,7 @@
 IBM-Project-32618-1660211041
 
 IoT Based Safety Gadget for Child Safety Monitoring & Notification
+
 Team Id : PNT2022TMID07818
 
 About the project 🚀
@@ -14,9 +15,13 @@ Demo Link here
     https://drive.google.com/file/d/1pv71tNbNmSi9zjpMXyuweBZziI3j-i-U/view?usp=share_link
 
 About the Team :
+
 Aravind.C (Leader)
+
 Sneha.R
+
 Melsiya
+
 Sriragavi
 
 Assignments :
