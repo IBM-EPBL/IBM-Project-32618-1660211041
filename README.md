@@ -17,25 +17,25 @@ Demo Link here
 
 About the Team :
 
-Aravind.C (Leader)
+1.Aravind.C (Leader)
 
-Sneha.R
+2.Sneha.R
 
-Melsiya
+3.Melsiya
 
-Sriragavi
+4.Sriragavi
 
 
 
 Assignments :
 
-Aravind.C (Leader)
+1.Aravind.C (Leader)
 
-Sneha.R
+2.Sneha.R
 
-Melsiya
+3.Melsiya
 
-Sriragavi
+4.Sriragavi
 
 
 
@@ -44,33 +44,33 @@ Project Design & Planning
 
 Ideation Phase: 
 
-Project Design Phase 1
+1.Project Design Phase 1
 
-Project Design Phase 2
+2.Project Design Phase 2
 
-Project Planning
+3.Project Planning
 
 
 
 
 Project Development Phase:
 
-Performance Testing
+1.Performance Testing
 
-Sprint 1
+2.Sprint 1
 
-Sprint 2
+3.Sprint 2
 
-Sprint 3
+4.Sprint 3
 
-Sprint 4
+5.Sprint 4
 
-User Acceptance Testing
+6.User Acceptance Testing
 
 
 
 Final Deliverables :
 
-Project Code
+1.Project Code
 
-Project Report
+2.Project Report
