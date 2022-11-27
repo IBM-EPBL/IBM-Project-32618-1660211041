@@ -14,29 +14,24 @@ Demo Link here
     https://drive.google.com/file/d/1pv71tNbNmSi9zjpMXyuweBZziI3j-i-U/view?usp=share_link
 
 About the Team :
-
 Aravind.C (Leader)
 Sneha.R
 Melsiya
 Sriragavi
 
 Assignments :
-
 Aravind.C (Leader)
 Sneha.R
 Melsiya
 Sriragavi
 
 Project Design & Planning
-
 Ideation Phase: 
-
 Project Design Phase 1
 Project Design Phase 2
 Project Planning
 
 Project Development Phase:
-
 Performance Testing
 Sprint 1
 Sprint 2
@@ -44,7 +39,6 @@ Sprint 3
 Sprint 4
 User Acceptance Testing
 
-Final Deliverables
-
+Final Deliverables :
 Project Code
 Project Report
